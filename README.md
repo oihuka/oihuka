@@ -88,6 +88,12 @@
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=plastic&logo=gitea&logoColor=5D9425)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
+## 📣 Quote-Of-The-Day
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 🥳 Random Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
 <!--
 **oihuka/oihuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
